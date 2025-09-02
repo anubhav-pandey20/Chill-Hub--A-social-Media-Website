@@ -4,7 +4,6 @@ CHILL HUB is a group college project — a niche social media platform built wit
 
 
 🌟 Current Features
-
 🗨️ Social Feed
 Post content with text and images.
 View a community feed and interact with posts.
