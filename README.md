@@ -4,51 +4,67 @@ CHILL HUB is a group college project — a niche social media platform built wit
 
 
 🌟 Current Features
+
 🗨️ Social Feed
+
 Post content with text and images.
 View a community feed and interact with posts.
 👤 User Profiles
+
 Customizable profiles with profile picture, bio, and post history.
 Follow/Unfollow functionality to connect with others.
 🔔 Notifications
+
 Receive alerts for follows and interactions on your content.
 Stay updated with activity on your profile.
 🔍 User Search
+
 Search users by name or username.
 Real-time filtering for quick discovery.
 🍿 Review System
+
 Add reviews for Movies, Series, Anime, or Shows.
 Structured format with title, rating, and detailed feedback.
 Explore reviews from the entire community.
 🤖 AI Entertainment Assistant
+
 Ask entertainment-related questions.
 Integrated with Google Gemini API.
 Responds with recommendations, trivia, comparisons, etc.
 🛠 Tech Stack
+
 Frontend: React.js, Tailwind CSS
 Backend: Node.js, Express.js
 Database: MongoDB with Mongoose
 Authentication: JWT-based Authentication
 AI Integration: Gemini API (Google)
 🧑‍💻 Team Members
+
 Sohan Chaudhari
 Abhay Yadav
 Anubhav Pandey
 Arfat Shaikh
 🚧 Work in Progress
+
 The following are currently under development or planned:
 
 🔧 Bug fixes and UI improvements
+
 📱 Full mobile responsiveness across all pages
+
 💬 Real-time chatting (e.g., via Socket.IO)
+
 📸 Screenshots
+
 Coming soon: Interface previews including feed, reviews, user profiles, and AI chat.
 
 🚀 Getting Started
+
 1. Clone the repository
 git clone https://github.com/sohanasz/Chill-HUB.git
 cd Chill-HUB
 Project Setup Instructions
+
 Frontend Setup
 cd frontend
 npm install
@@ -58,5 +74,6 @@ cd backend
 npm install
 npm start
 Environment Configuration
+
 Make sure to create a .env file in the root directory of the project.
 Add all required environment variables and secrets needed for the application to function correctly. Refer env-sample.txt for the required environment variables for getting the project up and running!
