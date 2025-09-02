@@ -13,19 +13,23 @@ View a community feed and interact with posts.
 
 Customizable profiles with profile picture, bio, and post history.
 Follow/Unfollow functionality to connect with others.
+
 🔔 Notifications
 
 Receive alerts for follows and interactions on your content.
 Stay updated with activity on your profile.
+
 🔍 User Search
 
 Search users by name or username.
 Real-time filtering for quick discovery.
+
 🍿 Review System
 
 Add reviews for Movies, Series, Anime, or Shows.
 Structured format with title, rating, and detailed feedback.
 Explore reviews from the entire community.
+
 🤖 AI Entertainment Assistant
 
 Ask entertainment-related questions.
@@ -41,8 +45,11 @@ AI Integration: Gemini API (Google)
 🧑‍💻 Team Members
 
 Sohan Chaudhari
+
 Abhay Yadav
+
 Anubhav Pandey
+
 Arfat Shaikh
 🚧 Work in Progress
 
